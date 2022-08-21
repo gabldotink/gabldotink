@@ -1,3 +1,3 @@
-still a novice programmer with a couple weird issues somewhere on github
+novice programmer with a couple weird issue posts somewhere on github
 
-check me out at https://gabl.ink/
+I also draw bad comics at https://comics.gabl.ink/
