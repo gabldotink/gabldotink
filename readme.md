@@ -1,4 +1,7 @@
-novice programmer with some stuff that I did on github.
-I know html, so I mean, I'm pretty amazing at programming.
+I’m Gabriel, a novice programmer who really just needs to get over himself and figure out Python.
 
-I also draw bad comics at https://comics.gabl.ink/
+`[gabes_mind][1]` is a complete copy of my brain, at least eventually.
+
+My homepage on the Web is <https://gabl.ink>.
+
+[1]: https://github.com/gabldotink/gabes_mind
