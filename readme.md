@@ -15,4 +15,4 @@ salut, jsuis gab&#8239;!
 
 Ma page sur le Web est <https://gabl.ink/>.
 
-Je suis trop mauvais en français pour traduire la dernière phrase. Utilise juste Google Traduction ou quelque chose.
+Je suis trop mauvais en français pour traduire les dernière phrases. Utilise juste Google Traduction ou quelque chose.
