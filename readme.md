@@ -13,6 +13,6 @@ I can’t recommend viewing my contributions grid with any significance. Almost 
 
 salut, jsuis gab&#8239;!
 
-Mon page sur le Web est <https://gabl.ink/>.
+Ma page sur le Web est <https://gabl.ink/>.
 
 Je suis trop mauvais en français pour traduire la dernière phrase. Utilise juste Google Traduction ou quelque chose.
